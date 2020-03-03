@@ -1,6 +1,6 @@
 # sortutils
 8种排序算法练习
-
+'''
 快速排序, asc=true 升序  asc=false 降序
 static void QuikSort(vector<int>& lst, bool asc=true);
 冒泡排序
@@ -19,3 +19,4 @@ static void HeapSort(vector<int>& lst, bool asc=true);
 static void RadixSort_LSD(vector<int>& lst, bool asc=true);
 基数排序MSD
 static void RadixSort_MSD(vector<int>& lst, bool asc=true);
+'''
